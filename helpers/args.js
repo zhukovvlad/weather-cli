@@ -8,8 +8,8 @@ const getArgs = (args) => {
       } else if (array[index + 1].charAt(0) !== "-") {
         res[value.substring(1)] = array[index + 1];
       } else {
-		res[value.substring(1)] = true;
-	  }
+        res[value.substring(1)] = true;
+      }
     }
   });
   return res;
