@@ -1,5 +1,5 @@
 {
-  "name": "weather-cli",
+  "name": "weather-cli-zhukovvlad",
   "version": "1.0.0",
   "description": "CLI for getting weather",
   "main": "weather.js",
@@ -23,7 +23,7 @@
   "homepage": "https://univerlib.com",
   "repository": {
     "type": "git",
-    "url": "https://univerlib.com"
+    "url": "https://github.com/zhukovvlad/weather-cli"
   },
   "bugs": {
     "url": "https://univerlib.com",
