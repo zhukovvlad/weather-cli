@@ -10,7 +10,6 @@ const TOKEN_DICTIONARY = {
 };
 
 const saveKeyValue = async (key, value) => {
-  console.log(filePath);
   let data = {};
 
   if (await isExist(filePath)) {
